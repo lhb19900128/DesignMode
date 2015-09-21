@@ -5,6 +5,5 @@ public class Main {
 		HandsetSoft handsetSoft = new HandsetGame();
 		HandsetBrand handsetBrand = new HandsetBrandM(handsetSoft);
 		handsetBrand.run();
-		
 	}
 }
